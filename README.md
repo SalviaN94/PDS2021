@@ -9,3 +9,5 @@ En este repositorio pueden encontrarse las distintas tareas semanales de la mate
 - [TS5: Primeros pasitos en la estimación espectral](https://github.com/SalviaN94/PDS2021/blob/master/estimacionEspectral_notebook.ipynb)
 - [TS6: Estimación espectral. Ventaneo de la información](https://github.com/SalviaN94/PDS2021/blob/master/ventanas_notebook.ipynb)
 - [TS7: Estimación espectral. Ventanas en acción!](https://github.com/SalviaN94/PDS2021/blob/master/ventanasAccion_notebook.ipynb)
+
+En caso de tener problemas de visualización con los notebooks al verlos desde github, descargar y utilizar jupyter notebook
