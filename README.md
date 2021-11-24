@@ -9,5 +9,7 @@ En este repositorio pueden encontrarse las distintas tareas semanales de la mate
 - [TS5: Primeros pasitos en la estimación espectral](https://github.com/SalviaN94/PDS2021/blob/master/estimacionEspectral_notebook.ipynb)
 - [TS6: Estimación espectral. Ventaneo de la información](https://github.com/SalviaN94/PDS2021/blob/master/ventanas_notebook.ipynb)
 - [TS7: Estimación espectral. Ventanas en acción!](https://github.com/SalviaN94/PDS2021/blob/master/ventanasAccion_notebook.ipynb)
+- [TS8: Estimación espectral. Método de Welch](https://github.com/SalviaN94/PDS2021/blob/master/EstimacionEspectral_Welch.ipynb)
+- [TS9: Estimación espectral a prueba: Ancho de banda del Electrocardiograma.](https://github.com/SalviaN94/PDS2021/blob/master/Estimaci%C3%B3n%20espectral%20a%20prueba%20Ancho%20de%20banda%20del%20Electrocardiograma..ipynb)
 
 En caso de tener problemas de visualización con los notebooks al verlos desde github, descargar y utilizar jupyter notebook
